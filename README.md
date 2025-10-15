@@ -1,11 +1,6 @@
 # 🤖 Слайдыч: Ваш AI-ассистент для создания презентаций
 
 **Презентация: https://www.figma.com/slides/ysOWlVttb1BhaeKCgkCgc4/Untitled?node-id=1-184&t=20nbAYYYD4genrAt-1**
-<center>
-    <img src=servers\fastapi\readme_res\1.png style="width: 40%; height: auto;">
-    <img src=servers\fastapi\readme_res\2.png style="width: 40%; height: auto;">
-    <img src=servers\fastapi\readme_res\3.png style="width: 40%; height: auto;">
-</center>
 
 Добро пожаловать в репозиторий проекта **«Слайдыч»**! Это умный веб-сервис, который
  умеет анализировать разнородные материалы проекта: 
